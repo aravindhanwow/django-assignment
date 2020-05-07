@@ -1,8 +1,7 @@
 # django-assignment
-###############################################################################################################################
+########################################################################################
 Being new to django, i could able to give a partial solution to the assignment, which was given to me. I have learned this 
-django rest framework within these
-three days of time.
+django rest framework within these three days of time.
 
 IMPLEMENTAIONS:
 	1) I have used django.rest_framework to make api calls to GET/POST request
@@ -36,4 +35,4 @@ STEPS AND INSTALLATIONS:
       
   
 
-################################################################################################################################
+#################################################################################
